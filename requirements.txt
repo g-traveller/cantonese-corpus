@@ -1,0 +1,2 @@
+pycantonese==2.0.0
+jieba==0.39
